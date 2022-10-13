@@ -21,6 +21,7 @@
 ### Links
 
 - Solution URL: (https://github.com/gabadadzeluca/qr-code-component)
+- Live Page: (https://gabadadzeluca.github.io/qr-code-component/)
 
 ## My process
 
